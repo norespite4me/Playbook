@@ -1,0 +1,3 @@
+firewall rules based on user roles
+log all connections, permitted and denied
+allow HTTP/HTTPS but block FTP and Telnet
